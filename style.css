@@ -1,0 +1,32 @@
+body
+{
+    text-align: center;
+    background-color: aquamarine;
+}
+div
+{
+    margin-top: 15px;
+}
+.img_section
+{
+    display: flex;
+    justify-content: center;
+}
+.section_style
+{
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: rgb(9, 255, 0);
+}
+
+img{
+    width: 550px;
+    height: 550px;
+    border-radius: 20px;
+}
+h1
+{
+    background-color: cyan;
+    color: rgb(112, 13, 13);
+    border-radius: 25px;
+}
